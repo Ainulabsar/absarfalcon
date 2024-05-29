@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Ainul Absar</h1>
-<h3 align="center">A Passionate frontend Software developer from India</h3>
+<h3 align="center">A Passionate frontend Software developer from Bangalore</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
 
