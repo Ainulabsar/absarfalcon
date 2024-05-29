@@ -125,19 +125,7 @@
     />
   </a>
  
-  <a
-    href="https://www.adobe.com/products/xd.html"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
-      alt="xd"
-      width="50"
-      height="50"
-    />
-  </a>
-</p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=absarfalcon&show_icons=true&locale=en&layout=compact" alt="absarfalcon" /></p><br><br>
