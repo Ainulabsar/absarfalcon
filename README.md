@@ -128,8 +128,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=absarfalcon&show_icons=true&locale=en&layout=compact" alt="absarfalcon" /></p><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ainulabsar &show_icons=true&locale=en&layout=compact" alt="Ainulabsar " /></p><br><br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=absarfalcon&show_icons=true&locale=en" alt="absarfalcon" /></p><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Ainulabsar &show_icons=true&locale=en" alt="Ainulabsar " /></p><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=absarfalcon&" alt="absarfalcon" />
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Ainulabsar &" alt="Ainulabsar " />
