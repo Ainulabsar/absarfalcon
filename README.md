@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **BookLio-Second hand books platform**
 
-- 👨‍💻 All of my projects are available at [https://github.com/absarfalcon?tab=repositories](https://github.com/absarfalcon?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/absarfalcon?tab=repositories](https://github.com/Ainulabsar/)
 
 - 📫 How to reach me **absarainul027@gmail.com**
 
